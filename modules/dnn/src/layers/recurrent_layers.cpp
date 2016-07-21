@@ -42,7 +42,6 @@
 #include "../precomp.hpp"
 #include "recurrent_layers.hpp"
 #include "op_blas.hpp"
-#include <iostream>
 
 namespace cv
 {
